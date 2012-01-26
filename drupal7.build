@@ -1,0 +1,9 @@
+api = 2
+
+core = 7.x
+projects[] = "drupal"
+
+; Copy of jenkins_test
+projects[mig5_profiler][type] = "profile"
+projects[mig5_profiler][download][type] = "git"
+projects[mig5_profiler][download][url] = "git://github.com/iler/jenkins_test.git"
