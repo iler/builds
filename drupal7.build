@@ -8,4 +8,4 @@ projects[drupal][patch][]  = "https://raw.github.com/gist/1597730/5409abcda3909c
 ; Copy of jenkins_test
 projects[jenkins_test][type] = "profile"
 projects[jenkins_test][download][type] = "git"
-projects[jenkins_test][download][url] = "git://github.com/iler/jenkins_test.git"
+projects[jenkins_test][download][url] = "git://github.com/iler/jenkins-test.git"
