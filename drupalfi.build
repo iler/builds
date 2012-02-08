@@ -12,6 +12,6 @@ projects[drupal][patch][911354] = http://drupal.org/files/issues/911354.43.patch
 projects[drupal][patch][995156] = http://drupal.org/files/issues/995156-5_portable_taxonomy_permissions.patch
 
 ; Copy of dfi
-projects[drupalfi][type] = "profile"
-projects[drupalfi][download][type] = "git"
-projects[drupalfi][download][url] = "git@codebasehq.com:mearra/drupalfi/dfi.git"
+projects[dfi][type] = "profile"
+projects[dfi][download][type] = "git"
+projects[dfi][download][url] = "git@codebasehq.com:mearra/drupalfi/dfi.git"
