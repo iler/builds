@@ -14,4 +14,4 @@ projects[drupal][patch][995156] = http://drupal.org/files/issues/995156-5_portab
 ; Copy of dfi
 projects[dfi][type] = "profile"
 projects[dfi][download][type] = "git"
-projects[dfi][download][url] = "git://github.com/iler/dfi.git"
+projects[dfi][download][url] = "git@codebasehq.com:mearra/drupalfi/dfi.git"
