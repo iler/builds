@@ -1,11 +1,4 @@
 api = 2
 
 core = 7.x
-
-projects[drupal][version]  = "7.10"
-projects[drupal][patch][]  = "https://raw.github.com/gist/1597730/5409abcda3909c11eeab8db640caee9a38b02e02/gistfile1.txt"
-
-; Copy of jenkins_test
-projects[jenkins_test][type] = "profile"
-projects[jenkins_test][download][type] = "git"
-projects[jenkins_test][download][url] = "git://github.com/iler/jenkins-test.git"
+projects[] = "drupal"
