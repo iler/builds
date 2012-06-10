@@ -1,0 +1,9 @@
+api = 2
+core = 7.x
+
+projects[drupal][version] = "7.14"
+
+; Copy of devdays
+projects[dfi][type] = "profile"
+projects[dfi][download][type] = "git"
+projects[dfi][download][url] = "git@github.com:iler/dev-days.git"
